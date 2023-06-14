@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN applications, specifically Triviahhh!<br>🌱 I’m currently learning Tailwind CSS and Typescript while working through a Data Structures & Algorithms course<br>💬 Ask me about Table Top Role Playing Games! I play D&D 5e and Pathfinder 2e every week<br>
+🔭 I’m currently working on the job hunt!<br>🌱 I’m currently learning Python and Django <br>💬 Ask me about Table Top Role Playing Games! I play D&D 5e and Pathfinder 2e every week<br>
 
 
 ## 🌐 Socials:
