@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Adventshare](https://github.com/jpdotdev/adventshare-frontend)
 
-- 🌱 I’m currently learning **Flask, AWS, GCP**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://johnpezza.dev/](https://johnpezza.dev/)
 
