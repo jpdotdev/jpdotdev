@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Pezza</h1>
 <h3 align="center">A full stack developer based in West Virginia</h3>
 
-- 🔭 I’m currently working on [Adventshare](https://github.com/jpdotdev/adventshare-frontend)
-
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning DS&A
 
 - 👨‍💻 All of my projects are available at [https://johnpezza.dev/](https://johnpezza.dev/)
 
